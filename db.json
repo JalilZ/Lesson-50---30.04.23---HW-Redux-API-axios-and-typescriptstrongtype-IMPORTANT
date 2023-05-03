@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "desc": "Milk",
+      "price": 10
+    },
+    {
+      "id": 2,
+      "desc": "Chicken",
+      "price": 20
+    },
+    {
+      "id": 3,
+      "desc": "Chocolate",
+      "price": 5
+    },
+    {
+      "desc": "Burger",
+      "price": 20,
+      "id": 4
+    },
+    {
+      "id": 5,
+      "desc": "Nuts",
+      "price": 7
+    }
+  ]
+}
